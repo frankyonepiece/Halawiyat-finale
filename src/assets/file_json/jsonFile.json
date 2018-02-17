@@ -1,0 +1,308 @@
+{"list":[
+    {
+        "background":"assets/imgs/ramedan.jpg",
+        "title":"رمضان",
+        "array":[
+                {
+                    "background":"assets/file_json/halawiyat/tounsiya/tounsiyat.jpg",
+                    "title":"حلوة تونسية ",
+                    "fav":false,
+                    "content":{
+                        "makadir":[
+                            "كيلو فورص ","بيضة واحدة","خمارة فاني ","معلقة زبدة ","نصف كاس ماى زهر","قبسة ملح","زيت  لقلي و عسل و جنجلان محمر لتزيين"
+                        ],
+                        "imgMkadir":"assets/file_json/halawiyat/tounsiya/BGtounsiyat.jpg",
+                        "tahedir":"طريقة تحضير",
+                        "imgTahedir":"imageURL.png"
+                        }
+                },
+                {
+                    "background":"assets/file_json/halawiyat/chebakia/chebakia.jpg",
+                    "title":"حلوة شباكية",
+                    "fav":false,
+                    "content":{
+                        "makadir":[
+                            "كيلو فورص ","125غ زبدة","1 كاس زيت","نصف كاس ماى زهر","نصف كاس خل"," زلافة فيها جنجلان محمر و مطحون , نافع و حبة حلاوة ","كاس لوز مطحون","معلقة قرفة","كوزة محكوكة","زعفران شعرة  و زيت و عسل و جنجلان  لتزيبن"
+                        ],
+                        "imgMkadir":"assets/file_json/halawiyat/chebakia/BGchebakia.jpg",
+                        "tahedir":"طريقة تحضير",
+                        "imgTahedir":"imageURL.png"
+                        }
+                },
+                {
+                    "background":"assets/file_json/halawiyat/selou/selou.jpg",
+                    "title":"سلو",
+                    "fav":false,
+                    "content":{  
+                        "makadir":[
+                            "كيلو فورص و قمح محمر"," نصف كيلو لوز مكلي "," نصف كيلو جنجلان محمر و مطحون","نصف زلافة نافع و حبة حلاوة محمرين و مطحونين "," كوزة قرفة سكر كلاصي زيت العود و زبدة مسكة حرة"
+                        ],
+                        "imgMkadir":"assets/file_json/halawiyat/selou/BGselou.jpg",
+                        "tahedir":"طريقة تحضير",
+                        "imgTahedir":"imageURL.png"
+                        }
+                }
+        ]
+    },
+    {
+        "background":"assets/imgs/aid.png",
+        "title":"حلوة عيد",
+        "array":[
+                {
+                "background":"assets/file_json/halawiyat/behlatmhafera/LBEHLALMEHFOURA.jpg",
+                "title":"حلوة البهلة المحفرة",
+                "fav":false,
+                "content":
+                    {  
+                    "makadir":[
+                        "غ125  كيلو فورص","غ250 زبدة عادية","سكر كلاصي","نصف لتر زيت","4 خمارات حمرين","قبسة ملح"," معلقة قرفة","نصف زلافة جنجلان محمر صاين و اللوز محمر مهرمش"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/behlatmhafera/BGLBEHLALMEHFERA.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                    }
+            },
+            {
+                "background":"assets/file_json/halawiyat/fekas/fekas.jpg",
+                "title":"الفقاص",
+                "fav":false,
+                "content":{
+                    "makadir":[
+                        "بيضات -7","قبسة ملح","قشور حامضة","نصف كاس ماى زهر","غ125 زبدة لدة","نصف زلافة زيت","غ250 سنيدة","جنجلان محمر صاين","قليل من النافع محمر صاين و اللوز مقطع","2 خمارات و الدقيق الكافي"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/fekas/BGfekas.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/halwattmar/halwattmar.jpg",    
+                "title":"حلوة التمر",
+                "fav":false,
+                "content":{
+                    "makadir":[
+                        "العجين :","250 غ زبدة ","1 كاس زيت"," كاس ماى زهر","قبسة ملح","فاني و الدقيق الكافي","التمر : ","نصف كيلو تمر"," معلقة قرفة","معلقة  زبدة ","2  معلقات جنجلان محمر صاين و الناباج لدهن"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/halwattmar/BGhalwattmar.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/ghriybatSmidaWlkouk/Ghriba.jpg",    
+                "title":"غريبة السميدة و الكوك",
+                "fav":false,
+                "content":{
+                    "makadir":[
+                        " 6 البيظات ","زلافة زيت","400 غ سنيدة"," نصف كيلو كوك","نصف كيلو","سميدة رقيفة","2 خمارات","2 معالق عسل","قشور حامظة و سكر كلاصي سبسيال لتفناد"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/ghriybatSmidaWlkouk/BGghriba.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/GhriybatKawkaw/GhriybatKawkaw.jpg",    
+                "title":"غريبة كاوكاو",
+                "fav":false,
+                "content":{
+                    "makadir":[ 
+                        "نصف كيلو كاوكاو","غ100 عسل"," 6 بيضات","غ100  كليكوز","غ50 زبدة و شكلاط اسود او ابيض لتزيين"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/GhriybatKawkaw/BGghriybatKawkaw.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/noukatWkawkaw/noukatWkawkaw.jpg",    
+                "title":"نوكة بكاوكاو",
+                "fav":false,
+                "content":{
+                    "makadir":[ 
+                        "نصف كيلو كاوكاو محمر و مهرمش"," نصف كيلو كوك"," 6 بيضات","رابعة سنيدة","2 معلق كاكاو","معلقة  كوفتور او عسل و نصف معلقة كليكوز"," 1 كاس زيت و سكر كلاصي لتفناد"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/noukatWkawkaw/BGnoukatWkawkaw.jpeg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            }
+        ]
+    },
+    {
+        "background":"assets/imgs/ares.jpg",
+        "title":"حلويات العرس",
+        "array":[
+            {
+                "background":"assets/file_json/halawiyat/richbond/richbond.jpg",    
+                "title":"حلوة ريشبوند",
+                "fav":false,
+                "content":{
+                    "makadir":[ 
+                        " رابعة زبدة لذة"," ربعة بيظات ","ربعة كيسان زيت"," ربعة كيسان سنيدة ","قبسة ملح","قشور حامظة","ربعة خمارات و فاني و الدقيق الكافي","الكوفتور و الكوك لتزيبن"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/richbond/BGrichbond.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/ghriybatSmidaWlkouk/Ghriba.jpg",    
+                "title":"غريبة السميدة و الكوك",
+                "fav":false,
+                "content":{
+                    "makadir":[
+                        " 6 البيظات ","زلافة زيت","غ400 سنيدة"," نصف كيلو كوك","نصف كيلو","سميدة رقيفة","2 خمارات","2 معالق عسل","قشور حامظة و سكر كلاصي سبسيال لتفناد"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/ghriybatSmidaWlkouk/BGghriba.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/GhriybatKawkaw/GhriybatKawkaw.jpg",    
+                "title":"غريبة كاوكاو",
+                "fav":false,
+                "content":{
+                    "makadir":[ 
+                        "نصف كيلو كاوكاو","غ 100 عسل"," 6 بيضات","غ 100 كليكوز","غ50 زبدة و شكلاط اسود او ابيض لتزيين"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/GhriybatKawkaw/BGghriybatKawkaw.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/noukatWkawkaw/noukatWkawkaw.jpg",    
+                "title":"نوكة بكاوكاو",
+                "fav":false,
+                "content":{
+                    "makadir":[ 
+                        "نصف كيلو كاوكاو محمر و مهرمش"," نصف كيلو كوك"," 6 بيضات","رابعة سنيدة","2 معلق كاكاو","معلقة  كوفتور او عسل و نصف معلقة كليكوز"," كاس زيت و سكر كلاصي لتفناد"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/noukatWkawkaw/BGnoukatWkawkaw.jpeg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/fekasMalhWhlou/fekasMalhWhlou.jpg",
+                "title":"فقاص صغير مالح و حار",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "غ 250 زبدة","كاس حليب","كاس ماى","كاس زيت "," 4 فرماجات متلتين ","بصلة كبيرة مقطعة على 4","كنورة بكري"," معلقة  موتارد"," بزار سكنجبير ملح كافي","خمارة واحدة","معلقة خميرة الدار و الدقيق الكافي"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/fekasMalhWhlou/BGfekasMalhWhlou.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            }
+        ]
+    },
+    {
+        "background":"assets/imgs/aid.jpg",
+        "title":"حلويات اللوز",
+        "array":[
+            {
+                "background":"assets/file_json/halawiyat/louze/halwatLouz.jpg",
+                "title":"حلويات اللوز",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "العجين :","غ 500 فورص"," قبسة ملح","125 غ زبدة"," 2 معالق عسل","نصف كاس ماى زهر و الماى دافي ","العقدة كيلو لوز مفسخ و مطحون مع 500 غ  سكر كلاصي","ماى زهر","زبدة و مسكة حرة"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/louze/BGhalwatLouz.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/ghriybatLouz/ghriybatLouz.jpg",
+                "title":"غريبة اللوز",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "كيلو اللوز مفسخ","500 غ سكر كلاصي"," 9 اصفر بيض و بيضة كاملة"," نصف كاس  لاروب زبدة دايبة"," خمارة  و سكر كلاصي سبيسيال لتفناد"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/ghriybatLouz/BGgheraybabilouze.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/noukatBilouz/noukabilouz.jpg",
+                "title":"نوكة باللوز",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "كيلو لوز مفسخ و محمر او مقلي "," نصف كيلو شكلاط ابيض"," نصف كيلو عسل و 100 غ كليكوز"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/noukatBilouz/BGnoukabilouz.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            }
+        ]
+    },
+    {
+        "background":"assets/imgs/sable.jpg",
+        "title":"صابلي",
+        "array":[
+            {
+                "background":"assets/file_json/halawiyat/sabli/sablibikawkaw/sablibikawkaw.jpg",
+                "title":"صابلي  بالكاكاو",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "رابعة الزبدة ","رابعة سكر كلاصي"," قبسة ملح  فاتي","2 معالق كبار كاكاو"," 3 البيظات"," كاس زيت و الدقيق الكافي"," الشكلاط ابيظ لتزيين"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/sabli/sablibikawkaw/BGsablibikawkaw.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/sabli/sablinokawjenjlan/sablinokawjenjlan.jpg",
+                "title":"صابلي بنوكة جنجلان",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "العجين :","غ 250 زبدة"," (غ100 نشا (مايزينا ","غ 125 سكر كلاصي","1 بيضة","2 معالق كبار نيدو و الدقيف حسب الخلبط ",": النوكة","غ 125 جنجلان محمر مع 75 غ سنيدة","غ 75 زبدة","غ 75 كليكوز"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/sabli/sablinokawjenjlan/BGsablinokawjenjlan.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/sabli/sablimalehwhlo/sablimalehwhlo.jpg",
+                "title":"صابلي مالح حلو",
+                "fav":false,
+                "content":{  
+                    "makadir":[
+                        "غ 250 زبدة","4 فرماجات","غ 75 سكر كلاصي","نصف معلقة صغيرة ملح"," نصف خمارة ","غ 400 فورص","لتزيين :  ","شكلاط اسود","صخيرات شكلاط او سويتيز او بيسطاج مهرمش"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/sabli/sablimalehwhlo/BGsablimalehwhlo.jpg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            },
+            {
+                "background":"assets/file_json/halawiyat/sabli/sablimbiaajintsokar/sablimbiaajintsokar.jpg",
+                "title":"صابلي مزين بعجين السكر",
+                "fav":false,
+                "content":{  
+                    "makadir":[ 
+                        "رابعة زبدة ","رابعة سكر كلاصي","قبسة ملح فاني"," 1 كاس زيت"," 3 بيضات و الدقيق الكافي","لوز مهرمش لتزيين و عجين السكر"
+                    ],
+                    "imgMkadir":"assets/file_json/halawiyat/sabli/sablimbiaajintsokar/BGsablimbiaajintsokar.jpeg",
+                    "tahedir":"طريقة تحضير",
+                    "imgTahedir":"imageURL.png"
+                }
+            }
+        ]
+    }
+    
+]
+}

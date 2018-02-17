@@ -1,0 +1,23 @@
+<ion-header>
+
+  <ion-navbar  color="dark">
+      <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+      </button> 
+    <ion-title>{{Title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content class="card-background-page">
+
+  <ion-list>
+    <div *ngFor="let item of items ; let i = index;">
+      <ion-card (click)="nextPage(i)">
+        <img [src]="item.background"/>
+        <div class="card-title">{{item.title}}</div>
+      </ion-card>  
+    </div>
+  </ion-list>
+  
+</ion-content>

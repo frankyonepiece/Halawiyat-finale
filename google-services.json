@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77627172362",
+    "firebase_url": "https://halawoyatjamla.firebaseio.com",
+    "project_id": "halawoyatjamla",
+    "storage_bucket": "halawoyatjamla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77627172362:android:afdbd8d410231963",
+        "android_client_info": {
+          "package_name": "com.lazyCoders.halawiyatJamila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77627172362-qnba1e40tdotlonc78odfl7c82qffbep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSWnMSW5kM4sNN7XTEuvC8aYP3dk06PEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

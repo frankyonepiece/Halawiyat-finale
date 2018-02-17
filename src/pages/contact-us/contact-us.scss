@@ -1,0 +1,19 @@
+page-contact-us {
+    ion-content {
+        
+        background: -webkit-linear-gradient(180deg, #FF512F 10%, rgb(255, 248, 46) 90% ); 
+        background: -moz-linear-gradient(180deg, #FF512F 10%, rgb(255, 248, 46) 90% );
+        background: -ms-linear-gradient(180deg, #FF512F 10%, rgb(255, 248, 46) 90% );
+        background: -o-linear-gradient(180deg, #FF512F 10%, rgb(255, 248, 46) 90% );
+        background: linear-gradient(180deg, #FF512F 10%, rgb(255, 248, 46) 90% );
+    }
+    ion-label{
+        color: white;
+        font-size: 23px;
+        
+        -webkit-user-select: text;
+        -moz-user-select: text;
+        -ms-user-select: text;
+        user-select: text;
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Halawiyat_Jamila",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

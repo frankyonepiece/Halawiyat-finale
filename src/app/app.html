@@ -1,0 +1,16 @@
+<ion-menu type="push" side="right" [content]="content">
+    <ion-header color="dark">
+        <ion-toolbar color="dark">
+            <ion-title>Menu</ion-title>
+        </ion-toolbar>
+    </ion-header>
+    <ion-content>
+        <ion-list color="dark" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            <button menuClose icon-left ion-item *ngFor="let p of pages" (click)="openPage(p)"  color="dark" >
+                <ion-icon name="{{p.icon}}"></ion-icon>
+                {{p.title}}
+            </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

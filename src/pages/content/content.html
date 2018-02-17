@@ -1,0 +1,18 @@
+<ion-header>
+
+  <ion-navbar color="dark">
+      <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+      </button>
+    <ion-title>{{ title }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding [style.background-image]="BG" >
+  <div class="list" style="margin-top:50%; background: rgba(0, 0, 0, 0.268);padding-right:2%; border-radius: 15px;">
+    <div *ngFor="let item of items;let i = index">
+      <p>- {{ item }}.</p>
+    </div>
+  </div>
+</ion-content>
